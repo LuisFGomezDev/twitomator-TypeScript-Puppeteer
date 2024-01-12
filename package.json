@@ -1,0 +1,26 @@
+{
+  "name": "twitomator",
+  "version": "1.0.0",
+  "description": "Automates Twitter without API access",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/indy9000/twitomator.git"
+  },
+  "keywords": [
+    "twitter",
+    "automation"
+  ],
+  "author": "Luis Gomez M",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/indy9000/twitomator/issues"
+  },
+  "homepage": "https://github.com/indy9000/twitomator#readme",
+  "dependencies": {
+    "puppeteer": "^10.0.0"
+  }
+}
